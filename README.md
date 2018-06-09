@@ -1,2 +1,2 @@
 # happycode
-today is hard, tomorrow is hard, future is good.
+today, tomorrow, future.
